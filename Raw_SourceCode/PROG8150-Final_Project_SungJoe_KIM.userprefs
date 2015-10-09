@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Dark_Kinght\Scripts\Monster.cs">
+    <Files>
+      <File FileName="Assets\Dark_Kinght\Scripts\BoxCollide.cs" Line="7" Column="19" />
+      <File FileName="Assets\Dark_Kinght\Scripts\bulletcontrol.cs" Line="57" Column="19" />
+      <File FileName="Assets\Dark_Kinght\Scripts\destroyexplosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Dark_Kinght\Scripts\Follow.cs" Line="9" Column="19" />
+      <File FileName="Assets\Dark_Kinght\Scripts\Ground_1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Dark_Kinght\Scripts\Manager.cs" Line="108" Column="63" />
+      <File FileName="Assets\Dark_Kinght\Scripts\Monster.cs" Line="21" Column="3" />
+      <File FileName="Assets\Dark_Kinght\Scripts\Move.cs" Line="21" Column="37" />
+      <File FileName="Assets\Dark_Kinght\Scripts\PublicManager.cs" Line="10" Column="3" />
+      <File FileName="Assets\Dark_Kinght\Scripts\RotateCursor.cs" Line="6" Column="19" />
+      <File FileName="Assets\Dark_Kinght\Scripts\SceneReplay.cs" Line="6" Column="19" />
+      <File FileName="Assets\Dark_Kinght\Scripts\Shot.cs" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
